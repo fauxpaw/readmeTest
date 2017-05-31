@@ -9,8 +9,8 @@ If you are new to the project and/or mobile please refer to the following.
 What things you need to install the software and how to install them
 
 ```
-[Xcode (latest version)] (https://developer.apple.com/xcode/downloads/)
-[CocoaPods] (https://cocoapods.org/)
+[Xcode (latest version)](https://developer.apple.com/xcode/downloads/)
+[CocoaPods](https://cocoapods.org/)
 ```
 
 ### Installing
@@ -55,8 +55,8 @@ TODO: Elaborate on agreed upon best practices
 
 ## Authors
 
-* **
-* **Liz Rush** - *Initial work* - [JohnDoe](https://github.com/JohnDoe)
-* **Michael Sweeney** - *Supporting Developer* - [Michael]
+* **Chris Murphy** - *Initial work* - slack: @chris_m
+* **Liz Rush** - *Initial work* - slack: @lizmrush
+* **Michael Sweeney** - *Supporting Developer* - @michael
 
 ## Acknowledgments
